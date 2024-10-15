@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1728957094 source:d:\codeblocks\cplusplusprojects\kie1004\week2\main.cpp
+	"tutorial2.h"
+
+1728956308 d:\codeblocks\cplusplusprojects\kie1004\week2\tutorial2.h
+	<iostream>
+	<map>
+	<functional>
+
+1728953000 source:d:\codeblocks\cplusplusprojects\kie1004\week2\q1.cpp
+	"tutorial2.h"
+
+1728951920 source:d:\codeblocks\cplusplusprojects\kie1004\week2\q2.cpp
+	"tutorial2.h"
+
+1728952390 source:d:\codeblocks\cplusplusprojects\kie1004\week2\q3.cpp
+	"tutorial2.h"
+
+1728952588 source:d:\codeblocks\cplusplusprojects\kie1004\week2\q4.cpp
+	"tutorial2.h"
+
+1728952704 source:d:\codeblocks\cplusplusprojects\kie1004\week2\q5.cpp
+	"tutorial2.h"
+
+1728953500 source:d:\codeblocks\cplusplusprojects\kie1004\week2\q6.cpp
+	"tutorial2.h"
+
+1728956736 source:d:\codeblocks\cplusplusprojects\kie1004\week2\q7.cpp
+	"tutorial2.h"
+
